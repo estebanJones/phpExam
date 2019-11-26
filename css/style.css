@@ -1,0 +1,68 @@
+.errorCo {
+    height: 3em;
+}
+
+.colConnexion {
+    margin-top: 10em;
+} 
+
+.textErr {
+    padding-left: 10em;
+}
+
+.adminBut {
+    padding-top: 15em;
+    width: 30em;
+    margin-bottom: 4em;
+}
+
+.editPro {
+    margin-top: 10em;
+}
+.listEdit {
+    margin-top: 17em;
+}
+
+.main {
+    margin-top: 12em;
+}
+
+.inscriContent {
+    margin-top: 13em;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+li > a {
+    color:white
+}
+
+.deletOnglet {
+    height: 1px;
+    width: 1px;
+}
+
+.cardSend {
+    margin-top: 10em;
+}
+
+.categorie {
+    margin-top: 17em;
+}
+
+.boxCate {
+    height: 28em;
+
+}
+
+.cateButton {
+
+}
